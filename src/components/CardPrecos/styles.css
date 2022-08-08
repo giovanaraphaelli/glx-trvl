@@ -41,12 +41,11 @@
 .card .btc {
   font-size: 3rem;
   font-weight: 600;
-  padding: 1rem;
 }
 
 .pricing p {
   color: #eee;
-  padding: 1rem 0;
+  padding: 0.5rem 0;
   font-size: 1.2rem;
 }
 

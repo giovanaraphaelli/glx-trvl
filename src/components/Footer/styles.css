@@ -65,4 +65,17 @@ svg {
   .right .social {
     margin: auto;
   }
+
+  .footer h4 {
+    font-size: 1rem;
+    padding: 0.5rem;
+  }
+
+  .footer p {
+    font-size: 0.875rem;
+    padding: 0.5rem;
+  }
+  .footer .location {
+    padding: 0.5rem;
+  }
 }
