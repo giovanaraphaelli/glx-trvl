@@ -4,7 +4,7 @@ import './styles.css';
 
 const CardPrecos = () => {
   return (
-    <div className="pricing">
+    <section className="pricing">
       <div className="card-container">
         <div className="card">
           <h3>- Básico -</h3>
@@ -43,7 +43,7 @@ const CardPrecos = () => {
           </Link>
         </div>
       </div>
-    </div>
+    </section>
   );
 };
 

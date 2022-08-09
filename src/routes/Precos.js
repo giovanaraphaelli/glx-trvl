@@ -8,7 +8,7 @@ const Precos = () => {
   return (
     <div>
       <Navbar />
-      <HeroImage heading="PREÇOS." text="Escolha sua viagem." />
+      <HeroImage heading="VALORES." text="Escolha sua viagem." />
       <CardPrecos />
       <Footer />
     </div>

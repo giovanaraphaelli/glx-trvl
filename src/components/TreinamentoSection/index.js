@@ -8,7 +8,7 @@ import Moon from '../../assets/moon.jpg';
 
 const TreinamentoSection = () => {
   return (
-    <div className="training">
+    <section className="training">
       <div className="left">
         <h1>Treinamento</h1>
         <p>
@@ -30,7 +30,7 @@ const TreinamentoSection = () => {
           </div>
         </div>
       </div>
-    </div>
+    </section>
   );
 };
 

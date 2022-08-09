@@ -1,6 +1,7 @@
 .training {
   width: 100%;
-  margin: 3rem 0;
+  max-width: 1140px;
+  margin: 3rem auto;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   height: 100%;
@@ -10,7 +11,6 @@
   text-align: center;
   margin: auto;
   padding: 1rem 4rem;
-  max-width: 600px;
 }
 
 .training .left p {
@@ -49,6 +49,7 @@
 
 @media (max-width: 1140px) {
   .training {
+    max-width: 600px;
     grid-template-columns: 1fr;
   }
 
