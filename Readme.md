@@ -4,7 +4,7 @@
 
 ## 🎯 Objetivo
 
-Esta aplicação é um lading page desenvolvida com o objetivo exercitar a utilização de React Router Dom.
+Esta aplicação é uma landing page desenvolvida com o objetivo exercitar a utilização de React Router Dom.
 
 ## 🛠️ Tecnologias utilizadas
 
