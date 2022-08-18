@@ -14,7 +14,7 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 - CSS;
 - React;
 - React Icons;
-- React Router Dom;
+- React Router;
 
 ## 🚀 Como executar o projeto
 
