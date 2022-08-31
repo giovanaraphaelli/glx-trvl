@@ -2,9 +2,11 @@
 
 ![Resultado final do projeto](src/assets/home.png)
 
+<h4 align="center"><a href="https://glx-trvl.vercel.app/">Clique para visitar o projeto</a></h4>
+
 ## 🎯 Objetivo
 
-Esta aplicação é uma landing page desenvolvida com o objetivo exercitar a utilização de React Router Dom.
+Esta aplicação é uma landing page, desenvolvida com o objetivo exercitar a utilização de React Router Dom.
 
 ## 🛠️ Tecnologias utilizadas
 
